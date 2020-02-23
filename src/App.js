@@ -7,7 +7,7 @@ import users from './api/users';
 function App() {
   return (
     <div className="App">
-      <h1>Static list of todos</h1>
+      <h1>Try to connect GH-Pages</h1>
       <p>
         <span>Todos: </span>
         {todos.length}
